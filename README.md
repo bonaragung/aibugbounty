@@ -4,6 +4,7 @@
 AI Bug Bounty adalah alat pemindaian keamanan (reconnaissance) yang menggabungkan kekuatan alat *open-source* klasik dengan kecerdasan buatan (**Llama3 8B-Instruct** via Ollama) untuk melakukan triase otomatis terhadap temuan kerentanan.
 
 ---
+![Dashboard Screenshot](Screenshot.png)
 
 ## 🚀 Filosofi & Alur Kerja
 Tool ini dirancang dengan prinsip bahwa AI bukanlah pengganti manusia, melainkan partner analisis yang mempercepat proses identifikasi celah keamanan.
