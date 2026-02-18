@@ -28,7 +28,7 @@ import time
 # KONFIGURASI
 # ══════════════════════════════════════════════
 
-OLLAMA_API     = "http://10.30.3.69:11434/api/generate"
+OLLAMA_API     = "http://localhost:11434/api/generate"
 MODEL          = "llama3:latest"          # Meta-Llama-3-8B-Instruct
 
 REPORT_DIR     = Path("./reports")
